@@ -1,4 +1,4 @@
-# conflicts-quest
+LOCAL
 Testing how to resolve merge conflicts in git
 
 Programmer (noun)
